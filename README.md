@@ -4,18 +4,14 @@ Welcome to **Example Project**! This is about what we do on **GitHub READMEs** f
 
 # Files
 
-> public/index.html
+> Example README.md
 
-> public/css/style.css
+> Example File 1
 
-> public/js/index.js
+> Example File 2
 
-> server.js
-
-> package.json
-
-> README.md
+> Example File 3
 
 # Links
 
-<a href="https://discord.gg/ERg2DeKT8Y"><img src="https://img.shields.io/discord/806516619676221500?label=Discord" width="256" alt="Discord" /></a>
+<a href="https://discord.gg/ERg2DeKT8Y"><img src="https://img.shields.io/discord/806516619676221500?label=TCA" width="256" alt="Discord" /></a>
