@@ -16,8 +16,4 @@ Welcome to **Example Project**! This is about what we do on **GitHub READMEs** f
 
 # Links
 
-<div align="center">
-<p>
-<iframe src="https://discord.com/widget?id=806516619676221500&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</p>
-</div>
+<a href="https://discord.gg/ERg2DeKT8Y"><img src="https://img.shields.io/discord/806516619676221500?label=Discord" width="546" alt="discord.js" /></a>
