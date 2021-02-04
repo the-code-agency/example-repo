@@ -14,6 +14,8 @@ Welcome to **Example Project**! This is about what we do on **GitHub READMEs** f
 
 > package.json
 
+> README.md
+
 # Links
 
 <a href="https://discord.gg/ERg2DeKT8Y"><img src="https://img.shields.io/discord/806516619676221500?label=Discord" width="256" alt="Discord" /></a>
